@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="180" height="auto" style="display: inline-block; max-width: 180px; border-radius: 25px;text-align: center;" />
+  <img src="assets/logo.png" alt="logo" width="180" height="auto" style="border-radius: 50px;" />
   <h1>Destiny Cat</h1>
   
   <p>
